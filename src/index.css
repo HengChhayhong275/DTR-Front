@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Nokora:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'KohSantepheabBold';
+  src: url('./assets/fonts/KohSantepheap-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'KohSantepheabLight';
+  src: url('./assets/fonts/KohSantepheap-Light.ttf');
+}
+
+@font-face {
+  font-family: 'KohSantepheabThin';
+  src: url('./assets/fonts/KohSantepheap-Thin.ttf');
+}
+
+
+
+@font-face {
+  font-family: 'KohSantepheabRegular';
+  src: url('./assets/fonts/KohSantepheap-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'KrasarBold';
+  src: url('./assets/fonts/Krasar-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'KrasarLight';
+  src: url('./assets/fonts/Krasar-Light.ttf');
+}
+
+@font-face {
+  font-family: 'KrasarExtraLight';
+  src: url('./assets/fonts/Krasar-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: 'KrasarMeduim';
+  src: url('./assets/fonts/Krasar-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'KrasarRegular';
+  src: url('./assets/fonts/Krasar-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'KrasarThin';
+  src: url('./assets/fonts/Krasar-Thin.ttf');
+}
+
+@font-face {
+  font-family: 'MoulRegular';
+  src: url('./assets/fonts/Moul-Regular.ttf');
+}
+
+
+html, body{
+  font-family: 'Nokora';
+}
+
+h1, h2{
+  margin: 0;
+}
+
+p{
+  margin: 0;
+}
+
